@@ -1,3 +1,5 @@
+# [👉 Live Demo 🚀🚀🚀](https://airbnb-clone-blush-eight.vercel.app/)
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
@@ -27,3 +29,7 @@ yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+## The video from where I studied
+
+[https://www.youtube.com/watch?v=ifcODOhSH1o&list=PLf16UKl7nR5AOGvcX_WtjqXMge-a1B1Lo](https://www.youtube.com/watch?v=ifcODOhSH1o&list=PLf16UKl7nR5AOGvcX_WtjqXMge-a1B1Lo)
