@@ -12,6 +12,10 @@ export default function Home({ exploreData, cardsData }) {
       <Head>
         <title>Leonardo Digiorgio Airbnb</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="google-site-verification"
+          content="TDWIyOm1j0FJcx7wXZtxJywmoAxTh5g7Dz4aYkxv-_Q"
+        />
       </Head>
 
       <Header />
